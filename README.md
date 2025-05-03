@@ -16,7 +16,7 @@ This is a relational database for managing books, categories, members, and book 
 2. Run the script: library_management.sql.
 
 📊 ERD Screenshot:
-![ERD](./erd/library_erd.png)
+https://github.com/PreciousMumbi/Database-Final-Project-wk8-Precious-Mumbi/blob/main/ERD.png
 
 ---
 
